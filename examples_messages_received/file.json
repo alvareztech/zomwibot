@@ -1,0 +1,13 @@
+{
+  "user": "1351191431587887",
+  "channel": "1351191431587887",
+  "timestamp": 1476653707709,
+  "seq": 902,
+  "mid": "mid.1476653707709:d4ef963097",
+  "attachments": [{
+    "type": "file",
+    "payload": {
+      "url": "https://url"
+    }
+  }]
+}

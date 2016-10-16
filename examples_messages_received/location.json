@@ -1,0 +1,31 @@
+{
+    "object": "page",
+    "entry": [{
+        "id": "161717770678063",
+        "time": 1475425435796,
+        "messaging": [{
+            "sender": {
+                "id": "1351191431587887"
+            },
+            "recipient": {
+                "id": "161717770678063"
+            },
+            "timestamp": 1475425435715,
+            "message": {
+                "mid": "mid.1475425435530:c568bb26c939783b45",
+                "seq": 82,
+                "attachments": [{
+                    "title": "Pinned Location",
+                    "url": "https://url",
+                    "type": "location",
+                    "payload": {
+                        "coordinates": {
+                            "lat": -16.481196,
+                            "long": -68.213312
+                        }
+                    }
+                }]
+            }
+        }]
+    }]
+}
